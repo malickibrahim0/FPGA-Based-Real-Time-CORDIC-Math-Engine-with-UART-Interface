@@ -1,3 +1,5 @@
+// Some Pins are irrelevant to this project but good to keep them 
+
 # Go Board Pin Constraints File
 # Family & Device:    iCE40HX1K
 # Package:            VQ100
